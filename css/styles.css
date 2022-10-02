@@ -838,6 +838,11 @@ h1 {
       padding-left: 1rem;
     }
 
+    .instagram-container {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
     .social-stats-blocks {
       display: flex;
       justify-content: space-between;
